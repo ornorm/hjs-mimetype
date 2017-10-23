@@ -14,7 +14,10 @@
     "url": "git+https://github.com/ornorm/hjs-mimetype.git"
   },
   "keywords": [
-    "MimeType"
+    "MimeType",
+    "MimeTypeParameterList",
+    "LineTokenizer",
+    "MimeTypeFile"
   ],
   "author": "Aime Biendo <abiendo@gmail.com>",
   "license": "MIT",
