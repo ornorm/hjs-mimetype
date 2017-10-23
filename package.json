@@ -1,6 +1,6 @@
 {
   "name": "hjs-mimetype",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Mime type file support for nodeJS",
   "main": "index.js",
   "directories": {
