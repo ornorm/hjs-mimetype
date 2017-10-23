@@ -1,0 +1,30 @@
+{
+  "name": "hjs-mimetype",
+  "version": "1.0.0",
+  "description": "Mime type file support for nodeJS",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ornorm/hjs-mimetype.git"
+  },
+  "keywords": [
+    "MimeType"
+  ],
+  "author": "Aime Biendo <abiendo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ornorm/hjs-mimetype/issues"
+  },
+  "homepage": "https://github.com/ornorm/hjs-mimetype#readme",
+  "dependencies": {
+    "hjs-core": "^1.0.1",
+    "hjs-file": "^1.0.0",
+    "hjs-io": "^1.0.0"
+  }
+}
