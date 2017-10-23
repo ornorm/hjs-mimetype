@@ -1,7 +1,7 @@
-# HJS-MESSAGE
+# HJS-MIMETYPE
 > Mime type file support for nodeJS.
 
-Messaging classes: MimeType, MimeTypeParameterList and MimeTypeFile.
+Mime classes: MimeType, MimeTypeParameterList and MimeTypeFile.
 
 ## Installation
 
